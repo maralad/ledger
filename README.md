@@ -2,7 +2,7 @@
 ### A simple python program for processing a currency transaction ledger
 
 ### In order to query the ledger for balances on a certain date or current balance you need to first run load_transactions
-then run get_balances
+### then run get_balances
 
 ### This is the order...
 * load transactions
