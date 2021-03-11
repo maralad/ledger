@@ -9,7 +9,8 @@
     * ### transaction, parties = load_transactions(os.path.join('fixtures', '1000_rows.csv'))
 * Get balances
     * ### balances = get_balances(parties, transaction)
-  
+
+### Then run these in any order
 * Get latest balance for a party :
     * ### print(query_get_latest_party_balance(balances, 'Roxine'))
 * Get closing balance for a particular date for a party:
